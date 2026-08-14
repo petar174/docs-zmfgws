@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-e6d8q1.cnkitawin.online/sitemap.xml
